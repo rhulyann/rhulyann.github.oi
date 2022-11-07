@@ -1,7 +1,11 @@
+body {
+  background: #CCCCCC
+}
+
 p {
   text-align: center;
 }
- 
- body {
-     background-color:#8B0000
- }
+
+em strong {
+  color: #FF0000;
+}
